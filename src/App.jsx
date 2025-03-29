@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>frontend</div>
+    <div>Frntend</div>
   )
 }
 
